@@ -2,7 +2,7 @@
   SETUP: replace every YOUR_USERNAME with your GitHub username.
   Search for "TODO" to find every placeholder you must fill with real info.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Raja Salman - Java Backend, Cloud, Generative AI" xmlns:c2pa="http://c2pa.org/manifest">
+
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
     <stop offset="0" stop-color="#0d1117"/>
