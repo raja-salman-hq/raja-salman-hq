@@ -1,45 +1,52 @@
 <!--
   SETUP: replace every YOUR_USERNAME with your GitHub username.
-  Search for "TODO" to find every placeholder you must fill with real info.
+  Search for "TODO" to fill every placeholder with real info.
+  Needs assets/header.svg, assets/divider.svg, assets/footer.svg in the same repo.
 -->
 
 <div align="center">
 
-# Raja Salman
+<img src="./assets/header.svg" width="100%" alt="Raja Salman | Java Backend, Cloud, Generative AI" />
 
-<!-- <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Raja+Salman;BSCS+Student+%7C+Rawalpindi%2C+Pakistan;Java+Backend+%2B+Cloud+Architect+in+the+making" alt="Raja Salman typing intro" />
-</a> -->
-<img src="./assets/header.svg" width="100%" alt="Raja Salman header" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2600&pause=800&color=F7C948&center=true&vCenter=true&width=820&height=40&lines=Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+Web+Development;Generative+AI+%E2%80%A2+Hackathons+%E2%80%A2+n8n;AWS+%E2%80%A2+Linux+%E2%80%A2+Spring+Boot" alt="Python • NumPy • Pandas" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=F7C948&center=true&vCenter=true&width=800&height=40&lines=Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+Web+Development;Generative+AI+%E2%80%A2+Hackathons+%E2%80%A2+n8n;AWS+%E2%80%A2+Linux+%E2%80%A2+Spring+Boot" alt="skills typing" />
-</a>
+<br/>
+
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)](https://rajasalman-portfolio.vercel.app/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-salman-73467839a)
+[![EMAIL ME](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasalman.dev@gmail.com)
+![OPEN TO WORK](https://img.shields.io/badge/OPEN_TO_WORK-16a34a?style=for-the-badge)
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)](https://rajasalman-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-salman-73467839a)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasalman.dev@gmail.com)
-
-**⚡ Quick jump:**
-[About](#-about-me) · [Skills](#-skills--what-i-can-actually-do) · [Python & Data](#-python-numpy--pandas) · [Web Dev](#-web-development) · [Gen AI](#-generative-ai) · [Projects](#-featured-projects) · [Roadmap](#-learning-roadmap) · [Contact](#-lets-connect)
+[![About](https://img.shields.io/badge/About-7c3aed?style=flat-square)](#-about-me)
+[![Skills](https://img.shields.io/badge/Skills-0ea5e9?style=flat-square)](#-skills-and-proof)
+[![Python & Data](https://img.shields.io/badge/Python_&_Data-3776AB?style=flat-square)](#-python-numpy--pandas)
+[![Web Dev](https://img.shields.io/badge/Web_Dev-f97316?style=flat-square)](#-web-development)
+[![Gen AI](https://img.shields.io/badge/Gen_AI-ec4899?style=flat-square)](#-generative-ai)
+[![Projects](https://img.shields.io/badge/Projects-14b8a6?style=flat-square)](#-featured-projects)
+[![Roadmap](https://img.shields.io/badge/Roadmap-eab308?style=flat-square)](#-learning-roadmap)
+[![Contact](https://img.shields.io/badge/Contact-ef4444?style=flat-square)](#-lets-connect)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 👋 About Me
 
-I'm a **2nd-year BSCS student at NUML Rawalpindi**, building toward **Java backend engineering and cloud architecture** (Spring Boot, Spring AI, AWS).
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=820&height=40&lines=2nd-year+BSCS+student+at+NUML+Rawalpindi;Building+toward+Java+backend+%2B+cloud+architecture;Shipping+real+projects+for+real+clients" alt="2nd-year BSCS student at NUML Rawalpindi" />
+</div>
 
-Alongside university I:
-- ship **production websites for real clients**
-- clean and validate **real business data** (Excel → structured, deduplicated, verified)
-- compete in **AI hackathons** and build with LLM APIs
-- study **system design, Linux and cloud deployment**
+I'm building toward **Java backend engineering and cloud architecture** (Spring Boot, Spring AI, AWS). Alongside university I:
 
-> **My rule:** *Fundamentals first, then ship, then repeat.*
+- 🌐 ship **production websites for real clients**
+- 🧹 clean and validate **real business data** (Excel → structured, deduplicated, verified)
+- 🤖 compete in **AI hackathons** and build with LLM APIs
+- ☁️ study **system design, Linux and cloud deployment**
+
+> [!NOTE]
+> **My rule:** Fundamentals first, then ship, then repeat.
 
 | | |
 |---|---|
@@ -48,28 +55,28 @@ Alongside university I:
 | 🌍 **Location** | Rawalpindi, Pakistan |
 | 🤝 **Open to** | Internships · Freelance web projects · Collaboration |
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🧭 Skills: What I Can Actually Do
+## 🧭 Skills and Proof
 
-Each skill shows my honest level and the proof behind it.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=38BDF8&center=true&vCenter=true&width=820&height=36&lines=Honest+levels%2C+with+proof+for+each+skill" alt="Honest levels, with proof for each skill" />
+</div>
 
 | Skill | Level | Proof / what I've done |
 |---|---|---|
-| ☕ **Java (OOP)** | 🟢 Comfortable | JavaFX Student Learning Management System |
-| ⚙️ **C++** | 🟢 Comfortable | Inventory system with file handling & data structures |
-| 🗄️ **SQL / MySQL / PostgreSQL** | 🟢 Comfortable | Cricket League DB, 3NF normalization, ER diagrams |
-| 🌐 **HTML / CSS / JavaScript** | 🟢 Comfortable | Production client sites (Oasis Tree, Telnet Marketing) |
-| 🐍 **Python** | 🟡 Practicing | Completed course, building data and AI projects |
-| 🔢 **NumPy / Pandas** | 🟡 Practicing | Completed course, data cleaning and analysis |
-| 🟩 **Node.js** | 🟡 Practicing | TODO add one project or exercise using it |
-| 🤖 **Generative AI / LLM APIs** | 🟡 Practicing | Hackathons + LLM-based projects below |
-| ☁️ **AWS / Linux / Deployment** | 🟡 Practicing | Completed courses, deploying to Vercel and cloud |
-| 🔁 **n8n automation** | 🔵 Basics | TODO add one workflow you built |
-| 📱 **Flutter / Kotlin (Android)** | 🔵 Basics | Fundamentals only |
-| 🚀 **Spring Boot / Spring AI** | 🔴 Learning now | Main target stack |
-
-<sub>🟢 Comfortable · 🟡 Practicing · 🔵 Basics · 🔴 Learning now</sub>
+| ☕ **Java (OOP)** | ![Comfortable](https://img.shields.io/badge/-Comfortable-22c55e?style=flat-square) | JavaFX Student Learning Management System |
+| ⚙️ **C++** | ![Comfortable](https://img.shields.io/badge/-Comfortable-22c55e?style=flat-square) | Inventory system with file handling & data structures |
+| 🗄️ **SQL / MySQL / PostgreSQL** | ![Comfortable](https://img.shields.io/badge/-Comfortable-22c55e?style=flat-square) | Cricket League DB, 3NF normalization, ER diagrams |
+| 🌐 **HTML / CSS / JavaScript** | ![Comfortable](https://img.shields.io/badge/-Comfortable-22c55e?style=flat-square) | Production client sites (Oasis Tree, Telnet Marketing) |
+| 🐍 **Python** | ![Practicing](https://img.shields.io/badge/-Practicing-eab308?style=flat-square) | Completed course, building data and AI projects |
+| 🔢 **NumPy / Pandas** | ![Practicing](https://img.shields.io/badge/-Practicing-eab308?style=flat-square) | Completed course, data cleaning and analysis |
+| 🟩 **Node.js** | ![Practicing](https://img.shields.io/badge/-Practicing-eab308?style=flat-square) | TODO add one project or exercise using it |
+| 🤖 **Generative AI / LLM APIs** | ![Practicing](https://img.shields.io/badge/-Practicing-eab308?style=flat-square) | Hackathons + LLM-based projects below |
+| ☁️ **AWS / Linux / Deployment** | ![Practicing](https://img.shields.io/badge/-Practicing-eab308?style=flat-square) | Completed courses, deploying to Vercel and cloud |
+| 🔁 **n8n automation** | ![Basics](https://img.shields.io/badge/-Basics-3b82f6?style=flat-square) | TODO add one workflow you built |
+| 📱 **Flutter / Kotlin (Android)** | ![Basics](https://img.shields.io/badge/-Basics-3b82f6?style=flat-square) | Fundamentals only |
+| 🚀 **Spring Boot / Spring AI** | ![Learning](https://img.shields.io/badge/-Learning_now-ef4444?style=flat-square) | Main target stack |
 
 **Languages:** ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -81,11 +88,15 @@ Each skill shows my honest level and the proof behind it.
 
 **Mobile (basics):** ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🐍 Python, NumPy & Pandas
 
-I use these to turn **messy data into reliable data**, the same problem I solve for a B2B data marketplace (verifying records, removing duplicates, fixing missing fields).
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=3776AB&center=true&vCenter=true&width=820&height=36&lines=Turning+messy+data+into+reliable+data" alt="Turning messy data into reliable data" />
+</div>
+
+I use these to clean and validate data, the same problem I solve for a B2B data marketplace (verifying records, removing duplicates, fixing missing fields).
 
 <details>
 <summary><b>📘 What I've learned (click to expand)</b></summary>
@@ -150,11 +161,15 @@ print(with_tax.round(2))
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🌐 Web Development
 
-I build **fast, responsive, SEO-aware websites** and deliver them to real clients.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=F97316&center=true&vCenter=true&width=820&height=36&lines=Fast%2C+responsive%2C+SEO-aware+websites" alt="Fast, responsive, SEO-aware websites" />
+</div>
+
+I build websites and deliver them to real clients.
 
 ```mermaid
 flowchart LR
@@ -211,11 +226,13 @@ http.createServer((req, res) => {
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🤖 Generative AI
 
-I build with LLM APIs and learn by shipping hackathon projects.
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=EC4899&center=true&vCenter=true&width=820&height=36&lines=Building+with+LLM+APIs;Learning+by+shipping+hackathon+projects" alt="Building with LLM APIs" />
+</div>
 
 ```mermaid
 flowchart LR
@@ -252,9 +269,13 @@ flowchart LR
 
 </details>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=820&height=36&lines=Real+projects%2C+real+clients%2C+real+code" alt="Real projects, real clients, real code" />
+</div>
 
 <table>
 <tr>
@@ -263,9 +284,9 @@ flowchart LR
 ### 🧠 Human Touch Quality Layer
 Streamlit app that scores communications on empathy, naturalness, personalization, context-awareness and brand voice using an LLM API.
 
-`Python` `Streamlit` `LLM API`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square) ![LLM API](https://img.shields.io/badge/LLM_API-7c3aed?style=flat-square)
 
-[**View Project →**](https://github.com/YOUR_USERNAME/TODO_REPO)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/TODO_REPO)
 
 </td>
 <td width="50%" valign="top">
@@ -273,9 +294,9 @@ Streamlit app that scores communications on empathy, naturalness, personalizatio
 ### 🏆 TODO: Hackathon Project
 One line: the problem, how you solved it, the result.
 
-`Python` `TODO`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![TODO](https://img.shields.io/badge/TODO-6b7280?style=flat-square)
 
-[**View Project →**](https://github.com/YOUR_USERNAME/TODO_REPO)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/TODO_REPO)
 
 </td>
 </tr>
@@ -285,9 +306,9 @@ One line: the problem, how you solved it, the result.
 ### 🌳 Oasis Tree Lead Marketplace
 Production single-page site for a B2B lead data marketplace with EmailJS contact form and WhatsApp, phone and LinkedIn integrations.
 
-`HTML5` `CSS3` `JavaScript`
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square)
 
-[**Live Site →**](https://TODO_LIVE_URL)
+[![LIVE SITE](https://img.shields.io/badge/LIVE_SITE-16a34a?style=for-the-badge&logo=vercel&logoColor=white)](https://TODO_LIVE_URL)
 
 </td>
 <td width="50%" valign="top">
@@ -295,9 +316,9 @@ Production single-page site for a B2B lead data marketplace with EmailJS contact
 ### 🏏 Cricket League Management System
 Relational database in 3NF with ER diagrams, SQL queries and full documentation.
 
-`MySQL` `Database Design`
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square) ![Database Design](https://img.shields.io/badge/Database_Design-0ea5e9?style=flat-square)
 
-[**View Project →**](https://github.com/YOUR_USERNAME/TODO_REPO)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/TODO_REPO)
 
 </td>
 </tr>
@@ -307,9 +328,9 @@ Relational database in 3NF with ER diagrams, SQL queries and full documentation.
 ### 🎓 Student Learning Management System
 JavaFX desktop app for student data, enrollments and academic records.
 
-`Java` `JavaFX` `OOP`
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square) ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square) ![OOP](https://img.shields.io/badge/OOP-7c3aed?style=flat-square)
 
-[**View Project →**](https://github.com/YOUR_USERNAME/TODO_REPO)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/TODO_REPO)
 
 </td>
 <td width="50%" valign="top">
@@ -317,17 +338,21 @@ JavaFX desktop app for student data, enrollments and academic records.
 ### 📦 Inventory Management System
 C++ system for products and sales with file-based persistence.
 
-`C++` `File I/O`
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square) ![File I/O](https://img.shields.io/badge/File_I/O-6b7280?style=flat-square)
 
-[**View Project →**](https://github.com/YOUR_USERNAME/TODO_REPO)
+[![VIEW PROJECT](https://img.shields.io/badge/VIEW_PROJECT-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME/TODO_REPO)
 
 </td>
 </tr>
 </table>
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
-## 🗺️ Learning Roadmap
+## 📚 Learning Roadmap
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=800&color=EAB308&center=true&vCenter=true&width=820&height=36&lines=Check%2C+build%2C+ship%2C+repeat" alt="Check, build, ship, repeat" />
+</div>
 
 - [x] Java OOP, C++, SQL fundamentals
 - [x] HTML, CSS, JavaScript and client website delivery
@@ -340,29 +365,35 @@ C++ system for products and sales with file-based persistence.
 - [ ] System design: caching, queues, load balancing
 - [ ] Data structures and algorithms practice
 
----
+> [!TIP]
+> I tick one box at a time and ship something with each one.
 
-## 🎯 Current Focus
+### 🎯 Current Focus
 
-![Spring Boot](https://img.shields.io/badge/SPRING_BOOT-LEARNING-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Gen AI](https://img.shields.io/badge/GENERATIVE_AI-BUILDING-7c3aed?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS_CLOUD-GROWING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/PYTHON_DATA-PRACTICING-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![System Design](https://img.shields.io/badge/SYSTEM_DESIGN-LEARNING-0ea5e9?style=for-the-badge)
+![SPRING BOOT : LEARNING](https://img.shields.io/badge/SPRING_BOOT_:_LEARNING-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![GENERATIVE AI : BUILDING](https://img.shields.io/badge/GENERATIVE_AI_:_BUILDING-7c3aed?style=for-the-badge)
+![AWS CLOUD : GROWING](https://img.shields.io/badge/AWS_CLOUD_:_GROWING-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PYTHON DATA : PRACTICING](https://img.shields.io/badge/PYTHON_DATA_:_PRACTICING-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SYSTEM DESIGN : LEARNING](https://img.shields.io/badge/SYSTEM_DESIGN_:_LEARNING-0ea5e9?style=for-the-badge)
 
----
+<img src="./assets/divider.svg" width="100%" height="8" alt="" />
 
 ## 🌐 Let's Connect
 
 <div align="center">
 
-**Open to internships, freelance web projects and collaborations.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=800&color=F472B6&center=true&vCenter=true&width=820&height=36&lines=Open+to+internships%2C+freelance+web+projects+and+collaborations" alt="Open to internships, freelance web projects and collaborations" />
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-VISIT-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)](https://rajasalman-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-salman-73467839a)
-[![Gmail](https://img.shields.io/badge/GMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasalman.dev@gmail.com)
+<br/>
 
-**Think → Build → Break → Debug → Learn → Ship → Repeat** 🚀
+[![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO-0A0F1E?style=for-the-badge&logo=vercel&logoColor=white)](https://rajasalman-portfolio.vercel.app/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raja-salman-73467839a)
+[![EMAIL ME](https://img.shields.io/badge/EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajasalman.dev@gmail.com)
 
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2600&pause=800&color=14B8A6&center=true&vCenter=true&width=820&height=34&lines=Think+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Debug+%E2%86%92+Learn+%E2%86%92+Ship+%E2%86%92+Repeat" alt="Think → Build → Break → Debug → Learn → Ship → Repeat" />
+
+<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting" />
 
 </div>
