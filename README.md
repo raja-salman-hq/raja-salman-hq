@@ -2,7 +2,7 @@
   SETUP: replace every YOUR_USERNAME with your GitHub username.
   Search for "TODO" to find every placeholder you must fill with real info.
 -->
-
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/main/assets/header.svg" width="100%" />
 <div align="center">
 
 # Raja Salman
