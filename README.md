@@ -7,9 +7,10 @@
 
 # Raja Salman
 
-<a href="https://git.io/typing-svg">
+<!-- <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=800&height=50&lines=Hi%2C+I'm+Raja+Salman;BSCS+Student+%7C+Rawalpindi%2C+Pakistan;Java+Backend+%2B+Cloud+Architect+in+the+making" alt="Raja Salman typing intro" />
-</a>
+</a> -->
+<img src="./assets/header.svg" width="100%" alt="Raja Salman header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=F7C948&center=true&vCenter=true&width=800&height=40&lines=Python+%E2%80%A2+NumPy+%E2%80%A2+Pandas;JavaScript+%E2%80%A2+Node.js+%E2%80%A2+Web+Development;Generative+AI+%E2%80%A2+Hackathons+%E2%80%A2+n8n;AWS+%E2%80%A2+Linux+%E2%80%A2+Spring+Boot" alt="skills typing" />
